@@ -1,7 +1,7 @@
 # Getting Started with Create React App
-A movie streaming Platform - just like Amazon Prime, Netflix, Hotstar...
+A movie streaming Platform - similar to Amazon Prime, Netflix, Hotstar...
 
-Frontend - ReactJS, SASS, Axios
+Frontend - ReactJS, SCSS, Axios
 API intergration - TMDB (for movie fetching)
 
 
